@@ -15,4 +15,3 @@
 
 ![Image](https://raw.githubusercontent.com/kawintharawiw/CPSC321_631_hci/master/adminlte-3.0.4/5.png)
 
-
