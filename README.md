@@ -6,10 +6,7 @@
 
 -ชอบ Admin ตรงที่ว่ามีการ login ก่อนจะเข้าสู่ระบบ
 ![Image](https://raw.githubusercontent.com/kawintharawiw/CPSC321_631_hci/master/adminlte-3.0.4/1.png)
-
-
-
-
+<br><br>
 
 **2.หน้า Profile**
 
