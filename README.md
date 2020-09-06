@@ -15,6 +15,3 @@
 
 
 ![Image](https://raw.githubusercontent.com/kawintharawiw/CPSC321_631_hci/master/adminlte-3.0.4/5.png)
-
-
-![Github Desktop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZze_2ihfOzglP9-1dzqkdDS8RKaCBYkhUamDIL5D5HO-pLt_ZQ)
